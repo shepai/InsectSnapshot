@@ -4,7 +4,7 @@
 
 \<!-- Project image: replace with the actual image filename in assets/ -->
 
-\<p align="center">   \<img src="assets/REPLACE_WITH_IMAGE_FILENAME" alt="InsectSnapshot monitoring unit" width="700"> \</p>
+\<p align="center">   \<img src="assets/beecam_v2_front_exploded.png" alt="InsectSnapshot monitoring unit" width="700"> \</p>
 
 ## About the Project
 
